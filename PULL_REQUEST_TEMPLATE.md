@@ -7,6 +7,7 @@
 ## Як перевірити
 1. Відкрити проект: students/<PRIZVYSCHE>_<IMYA>/lab1/CollegeHub-<PRIZVYSCHE>/
 2. Зібрати `app` у Debug, запустити на AVD — має відобразитись текст "Hello, <PRIZVYSCHE>!"
+3. Test
 
 ## Чек-лист
 - [ ] Проєкт збирається без помилок
